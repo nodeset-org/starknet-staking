@@ -18,3 +18,5 @@ test = "snforge test"
 
 [[target.starknet-contract]]
 build-external-contracts = ["contracts_commons::erc20_mocks::DualCaseERC20Mock"]
+
+[lib]
